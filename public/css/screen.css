@@ -1,0 +1,15 @@
+* {	margin: 0; padding: 0; }
+
+.fakehtml5 { 
+	position: absolute;
+	z-index: 9999;
+	background: #fff;
+	opacity: 0.01;
+}
+
+h1 {
+	text-align: center;
+	padding-top: 50px;
+	font-size: 30px;
+	color: #666;
+}
